@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(90deg,#008170,#0F0F0F);
+}
+h1{
+    text-align: center;
+    color: #9c9a91;
+    font-size: 4rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1:hover{
+    color: #F6F5EE;
+    
+}
+nav{
+    display: block;
+    background-color: #9DBDFF;
+    height: 30px;
+    margin-left: -20px;
+    margin: 0 auto;
+    
+    
+
+}
+div{
+    height: 30px;
+    width: 7%;
+    background-color: #9DBDFF;
+    position: absolute;
+    margin: auto;
+}
+
+div:hover{
+    background-color: #FABC3F;
+}
+#about{
+    margin-left: 72%;
+}
+#skills{
+    margin-left: 79%;
+}
+#education{
+    margin-left: 86%;
+}
+#contact{
+    margin-left: 93%;
+}
+a{
+    text-decoration: none;
+    
+
+}
+p{
+    text-align: center;
+    margin: auto;
+    margin-top: 7px;
+}
